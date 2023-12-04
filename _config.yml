@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pooja Suri"
   avatar           : "Pooja_Suri_Profile.jpeg"
-  bio              : "Health Economics Researcher"
+  bio              :
   location         : "Berkeley, California"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=dCCo2XgAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "pooja_suri@berkeley.edu"
   researchgate     :
   uri              :
   bitbucket        :
