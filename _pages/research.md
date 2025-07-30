@@ -21,6 +21,18 @@ author:
 
 ## Publications
 
+[Impact of Mobile Messaging on Postnatal Care: A Randomized Trial in India]([https://policycommons-net.stanford.idm.oclc.org/artifacts/20076280/a-mobile-messaging-service-for-families-on-postnatal-knowledge-and-practices/20976805/])<br/>
+<small>*Bulletin for the WHO* 2025. Jamie Johnston,<u>Pooja Suri</u>, ...Seema Murthy.
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p>To evaluate the impact of a mobile messaging service that delivers World Health Organization recommendations on postnatal care to families from birth through six weeks postpartum via a messaging platform, we randomized tertiary hospitals in four Indian states into two groups. In the treatment group, 15 hospitals promoted the messaging service to families in maternity wards before discharge following a recent birth. Nine control hospitals provided standard in-hospital information. From mid-March 2021 to mid-January 2022, we recruited mothers to participate in the study. Consenting mothers completed a face-to-face baseline survey before hospital discharge after birth and a follow-up phone survey roughly 6 weeks postpartum. Using logistic regression controlling for state-fixed effects and baseline covariates, we examine intent-to-treat estimates and report risk differences. A total of 21,937 participants met the inclusion criteria. We observed significant positive impacts in 7 out of 11 neonatal and maternal care practices examined (P-values <0.05). Breastfeeding increased by 3.1 percentage points, and recommended cord care practices by 4.1 percentage points, skin-to-skin care with mothers by 9.2 percentage points, and skin-to-skin care by fathers by 2.2 percentage points. For recommended maternal dietary practices, we observed significant increases in adherence to guidelines advising no reduction of food intake (7.1 percentage p</p>
+</small>
+</details> 
+</div> 
+<br/>
+
 [Evaluation of a community-based mobile video breastfeeding intervention in Khayelitsha, South Africa: The Philani MOVIE cluster-randomized controlled trial](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003744)<br/>
 <small>*PLOS Medicine* 2021. Maya Adam, Jamie Johnston, ...<u>Pooja Suri</u>, ...Charles Prober.
 <div style="margin-left: 1em;">
@@ -36,6 +48,7 @@ author:
 ## Working Papers
 
 [Intergenerational Child Mortality Impacts of Deworming: Experimental Evidence from Two Decades of the Kenya Life Panel Survey](https://www.nber.org/papers/w31162)<br/>
+<small>*NBER Working Paper No. 36112*
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -47,6 +60,7 @@ author:
 <br/> 
 
 Investigating the role of family caregivers in postnatal care: Evidence from mother-caregiver dyads in India<br/> 
+<small>*Conditionally accepted at Plos One*
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
