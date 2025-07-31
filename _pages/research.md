@@ -21,7 +21,7 @@ author:
 
 ## Publications
 
-[Impact of Mobile Messaging on Postnatal Care: A Randomized Trial in India]([https://policycommons-net.stanford.idm.oclc.org/artifacts/20076280/a-mobile-messaging-service-for-families-on-postnatal-knowledge-and-practices/20976805/])<br/>
+[Impact of Mobile Messaging on Postnatal Care: A Randomized Trial in India](https://pmc.ncbi.nlm.nih.gov/articles/PMC11978415/)<br/>
 <small>*Bulletin for the WHO* 2025. Jamie Johnston,<u>Pooja Suri</u>, ...Seema Murthy.
 <div style="margin-left: 1em;">
 <details>
