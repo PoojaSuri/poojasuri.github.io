@@ -13,4 +13,4 @@ redirect_from:
 
 Download [here](https://poojasuri.github.io/files/PoojaSuri_CV_2025.pdf). <br/>
 
-<iframe src="https://docs.google.com/gview?url=https://poojasuri.github.io/files/PoojaSuri_CV.pdf&embedded=true" style="width:100%; height:700px" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://poojasuri.github.io/files/PoojaSuri_CV_2025.pdf&embedded=true" style="width:100%; height:700px" frameborder="0"></iframe>
